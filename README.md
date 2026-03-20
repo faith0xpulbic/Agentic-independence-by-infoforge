@@ -120,7 +120,7 @@ cp .env.example .env
 docker compose -f docker-compose.prod.yml up
 ```
 
-#### 2. Connect InsForge MCP
+#### 2. Connect InsForge MCP Server
 
 Open [http://localhost:7130](http://localhost:7130)
 
